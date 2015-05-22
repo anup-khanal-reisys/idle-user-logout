@@ -1,6 +1,6 @@
 === Idle User Logout ===
 
-Contributors: Abiral
+Contributors: Abiral Neupane
 Tags: auto, logout, signout, interval, duration, automatic, auto logout, idle time, idle user
 Requires at least: 3.0
 Tested up to: 4.2.2
