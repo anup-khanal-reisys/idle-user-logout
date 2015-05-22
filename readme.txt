@@ -1,9 +1,9 @@
-=== Auto Logout ===
+=== Idle User Logout ===
 
 Contributors: Abiral
-Tags: auto, logout, signout, interval, duration, automatic, auto logout, idle time
+Tags: auto, logout, signout, interval, duration, automatic, auto logout, idle time, idle user
 Requires at least: 3.0
-Tested up to: 3.0.3
+Tested up to: 4.2.2
 Stable tag: 1.0
 
 This plugin automatically logs out the user after a period of idle time. The time period can be configured from admin end general settings page.
@@ -30,7 +30,7 @@ Install this plugin is very simple:
 = How do I change the idle time period? =
 
 Go and configure the time period whatever you like from your admin end general settings page.
-It's in minutes, so 2000 is equal to 2 minute of idle time.
+It's in milliseconds, so 2 seconds is equal to 2000 ms of idle time.
 
 == Screenshots ==
 
