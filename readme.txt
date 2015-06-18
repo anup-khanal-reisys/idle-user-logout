@@ -37,10 +37,10 @@ It's in milliseconds, so 2 seconds is equal to 2000 ms of idle time.
 No screenshots!
 
 == Changelog ==
-=1.2=
+= 1.2 =
 *Fix: Plugin activation error resolution
 
-=1.1=
+= 1.1 =
 * Fix: Bug fixed in Firefox and IE
 * Added independent Settings UI
 
