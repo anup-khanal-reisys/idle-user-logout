@@ -1,11 +1,14 @@
-jQuery(document).idle({
-  onIdle: function(){
-    idle_user_logout_callback();
-  },
-  onHide: function(){
-    idle_user_logout_callback();
-  },
-  idle: iul.idleTimeDuration
+jQuery(window).on('load',function(){
+  jQuery(document).idleTimer( {
+        timeout:iul.idleTimeDuration, 
+        idle:true
+  });
+  
+  jQuery(document).bind("idle.idleTimer", function(){
+      idle_user_logout_callback();
+      console.log('User is Idle');
+  });
+
 });
 
 function idle_user_logout_callback(){

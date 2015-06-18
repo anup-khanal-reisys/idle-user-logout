@@ -15,7 +15,7 @@ If the user has been inactive for too long, then the user is automatically logge
 
 It tracks the users activity in both the front end and admin end.
 
-You can set the maximum idle time to admin end general settings page.
+You can setup Idle Time from WP Admin > Settings > Idle User Logout
 
 == Installation ==
 
@@ -37,6 +37,10 @@ It's in milliseconds, so 2 seconds is equal to 2000 ms of idle time.
 No screenshots!
 
 == Changelog ==
+
+=1.1=
+* Fix: Bug fixed in Firefox and IE
+* Added independent Settings UI
 
 = 1.0 =
 * First Version
