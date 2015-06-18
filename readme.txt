@@ -38,7 +38,7 @@ No screenshots!
 
 == Changelog ==
 = 1.2 =
-*Fix: Plugin activation error resolution
+* Fix: Plugin activation error resolution
 
 = 1.1 =
 * Fix: Bug fixed in Firefox and IE
