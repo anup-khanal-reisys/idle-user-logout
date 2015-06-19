@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.2
 
-This plugin automatically logs out the user after a period of idle time. The time period can be configured from admin end general settings page.
+This plugin automatically logs out the user after a period of idle time. The time period can be configured from admin end.
 
 == Description ==
 This plugin automatically logs out the user after a period of idle time.
