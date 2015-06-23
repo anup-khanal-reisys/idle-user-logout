@@ -23,7 +23,7 @@ Install this plugin is very simple:
 
 1.	Upload the plugin's folder to the `/wp-content/plugins/` directory
 2.	Activate the plugin through the 'Plugins' menu in WordPress
-3.	That's it! Go to Settings/General and configure the field "Auto Logout Duration" as you want.
+3.	That's it! Go to Settings > Idle User Logout and configure the field "Auto Logout Duration" as you want.
 
 == Frequently Asked Questions ==
 
