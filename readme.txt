@@ -77,6 +77,7 @@ No screenshots!
 
 
 = 1.3 =
+
 * Fix: Mobile issue resolution
 
 
