@@ -9,7 +9,7 @@ Requires at least: 3.0
 
 Tested up to: 4.2.2
 
-Stable tag: 1.2
+Stable tag: 1.3
 
 
 
@@ -74,6 +74,8 @@ No screenshots!
 
 
 == Changelog ==
+
+
 = 1.3 =
 * Fix: Mobile issue resolution
 
@@ -83,13 +85,11 @@ No screenshots!
 * Fix: Plugin activation error resolution
 
 
-
 = 1.1 =
 
 * Fix: Bug fixed in Firefox and IE
 
 * Added independent Settings UI
-
 
 
 = 1.0 =
