@@ -3,7 +3,7 @@ Contributors: abiralneupane, meissudeep
 Tags: auto, logout, signout, interval, duration, automatic, auto logout, idle time, idle user
 Requires at least: 3.0
 Tested up to: 4.2.3
-Stable tag: 1.3
+Stable tag: 2.0
 
 This plugin automatically logs out the user after a period of idle time. The time period can be configured from admin end.
 
