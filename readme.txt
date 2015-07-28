@@ -47,10 +47,10 @@ It isn\'t possible. The plugin does some validation, which force user to set idl
 == Changelog ==
 
 = 2.1 =
-*Fix: Minor issue while activating the plugin.
+* Fix: Minor issue while activating the plugin.
 
 = 2.0 =
-*Feature: Added Idle Behavior for each user roles.
+* Feature: Added Idle Behavior for each user roles.
 
 = 1.3 =
 
