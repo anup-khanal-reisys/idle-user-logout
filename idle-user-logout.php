@@ -3,7 +3,7 @@
 Plugin Name: Idle User Logout
 Plugin URI: http://wordpress.org/extend/plugins/idle-user-logout/
 Description: This plugin automatically logs out the user after a period of idle time. The time period can be configured from admin end.
-Version: 2.0
+Version: 2.1
 Author: Abiral Neupane
 Author URI: http://abiralneupane.com.np
 */

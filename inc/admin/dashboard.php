@@ -14,7 +14,8 @@ class IUL_DASHBOARD{
 
 	function show_iul_dashboard() {
 		$iul_behavior =  get_option('iul_behavior');
-		$default_time =  get_option('iul_data')['iul_idleTimeDuration'];
+		$iul_data =  get_option('iul_data');
+		$default_time = isset($iul_data['iul_idleTimeDuration'])?$iul_data['iul_idleTimeDuration']:20;
 
 		if(empty($iul_behavior)){
 			echo '<p>'.__('No behavior has been defined yet','iul').'</p>';
